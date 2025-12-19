@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> </picture>
 
-<!--
-**fahris-n/fahris-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Fahris](https://www.fahrisnassief.com/), a recent CS graduate from Colorado State University.
 
-Here are some ideas to get you started:
+I'm interested in backend development and distributed systems, but I can find my way around a frontend too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tools are Java, Python, Spring Boot, Apache Kafka, Docker, MySQL, and PostgreSQL.
+
+Currently building out the frontend of my [Drone Telemetry System](https://github.com/fahris-n/drone-telemetry-system).
+
+You can contact me [here](https://www.linkedin.com/in/fahrisnassief).
+
+Fun Facts:
+- When I was a baby I accidently met the Pope
+- I've been bitten by a donkey
