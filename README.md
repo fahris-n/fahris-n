@@ -6,7 +6,7 @@ I'm interested in backend development and distributed systems, but I can find my
 
 My main tools are Java, Python, Spring Boot, Apache Kafka, Docker, MySQL, and PostgreSQL.
 
-Currently building out the frontend of my [Drone Telemetry System](https://github.com/fahris-n/drone-telemetry-system).
+Currently building out the local version of my custom [API gateway](https://github.com/fahris-n/sentinel-local).
 
 You can contact me [here](https://www.linkedin.com/in/fahrisnassief).
 
