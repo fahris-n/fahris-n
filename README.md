@@ -4,9 +4,9 @@ I'm [Fahris](https://www.fahrisnassief.com/), a recent CS graduate from Colorado
 
 I'm interested in backend development and distributed systems, but I can find my way around a frontend too.
 
-My main tools are Java, Python, Spring Boot, Apache Kafka, Docker, MySQL, and PostgreSQL.
+My main tools are Java, Python, Go, Spring Boot, Apache Kafka, Docker, MySQL, and PostgreSQL.
 
-Currently building out the local version of my custom [API gateway](https://github.com/fahris-n/sentinel-local).
+Currently building out my custom [API gateway](https://github.com/fahris-n/sentinel-local).
 
 You can contact me [here](https://www.linkedin.com/in/fahrisnassief).
 
